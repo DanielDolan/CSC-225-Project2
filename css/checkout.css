@@ -1,0 +1,9 @@
+.jumbotron{
+    height:30vh;
+    background-size: cover;
+    background-color: black;
+    font-family: 'Carter One', cursive;
+}
+#body2{
+    background-color: burlywood;
+}
